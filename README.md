@@ -1,6 +1,23 @@
 # React
 [下载React开发环境包](https://github.com/hbxslyg/React/blob/master/React%E7%8E%AF%E5%A2%83.zip?raw=true)
 
+####注意
+此环境需要有nodeJS环境支持
+
+####使用方法
+* 1.下载开发环境包
+* 2.解压到项目文件件项目文件夹
+* 3.打开CMD命令提示符并切换解压后的文件夹
+* 4.执行命令等待配置环境依赖
+```CMD
+npm install
+```
+* 5.浏览器实时监控项目
+```CMD
+npm run dev
+```
+
+package.json
 ```javascript
 {
   "name": "react_05",
