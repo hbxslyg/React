@@ -1,5 +1,5 @@
 # React
-[下载React开发环境包 :bookmark_tabs: ](https://github.com/hbxslyg/React/blob/master/React%E7%8E%AF%E5%A2%83.zip?raw=true)
+[下载React开发环境包 :bookmark_tabs: ](/React%E7%8E%AF%E5%A2%83.zip?raw=true)
 
 #### 注意
 此环境需要有nodeJS环境支持
